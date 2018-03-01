@@ -12,6 +12,7 @@
 * I am easily distracted (\*)
 * I can look into a problem carefully
 * My colleagues often ask me to make judgments because I am fair
+
 --
 * I try to spend as much time as possible on web searches
 * I try to modify search queries to examine web page content more intricately
@@ -22,6 +23,7 @@
 * I try to browse web pages in lower- and higher-ranked web search results
 * I try to obtain evidence to verify the information on web pages
 * I try evaluating whether views represented on web pages are facts or opinions
+
 --
 * I want to learn a lot by communicating with various types of people
 * I want to learn various cultures
@@ -32,6 +34,7 @@
 * I like to discuss with those who have opinions that di er from mine
 * Learning how foreigners think is useful
 * I try to ask about what I do not understand
+
 --
 * I trust information that is shared by many users or liked on social networking websites (\*) 
 * I trust information that my friends share on social networking websites (\*)
@@ -41,4 +44,10 @@
 * I trust information on web pages with titles such as "the 20 best XXs" (\*)
 * I trust information on web pages with a high rank on search engines (\*)
 * I trust products or services with good reputations, on average, on review sites (\*)
-* I trust information on well-designed web pages \*)
+* I trust information on well-designed web pages (\*)
+* I try to adopt an objective attitude when deciding something
+* I try to make fair judgments
+* I try to think from multiple viewpoints
+* I try to re ect if I have unconscious biased opinions
+* I stick to my position when thinking about something (\*)
+* I have di culty being neutral when discussing my opinions with others (*) I try to listen to those with di erent opinions
