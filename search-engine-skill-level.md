@@ -1,28 +1,15 @@
 ## 質問リスト
 50. あなたは、普段、Google、Yahoo!、Bingといったウェブ検索エンジンをどのくらいの頻度で利用しますか？
-	* 5: ほぼ毎日複数回使用する
-	* 4: ほぼ毎日1回程度使用する
-	* 3: 週に数回使用する
-	* 2: ほとんど使用しない
-	* 1: 使用したことがない
+
 51. あなたは、ウェブ検索エンジンの使い方について、詳しい方だと思いますか？
-	* 5: そう思う
-	* 4: どちらかと言えばそう思う
-	* 3: どちらとも言えない
-	* 2: どちらかと言えばそう思わない
-	* 1: そう思わない
-52. あなたは、ウェブ検索エンジンで検索ワードを入力する際、NOT検索（キーワードの前に　NOTやマイナスをつけて検索する機能）を使用したことがありますか？
-	* 5: ある
-	* 1: ない
-53. あなたは、ウェブ検索エンジンで検索する際に、検索結果を「最終更新日時」で絞り込む機能を使用したことがありますか？
-	* 5: ある
-	* 1: ない
-54. あなたは、ウェブ検索エンジンで検索する際に、検索結果を特定のサイト（wikipedia.orgなど）やドメイン（.ac.jp、 .org、.go.jpなど）に絞り込む機能を使用したことがありますか？
-	* 5: ある
-	* 1: ない
-55. あなたは、ウェブ検索エンジンで検索ワードを作成する際に、フレーズ検索（検索キーワードを二重引用部” ”で囲って検索する機能）を使用したことがありますか？
-	* 5: ある
-	* 1: ない
-56. あなたは、検索結果をクリックせずに、検索結果リストページの概要情報のみを参考にして情報を得ることがありますか？
-	* 5: ある
-	* 1: ない
+
+52. I use the NOT operator to exclude web pages containing specific keywords
+
+53. I use a publication date filter to obtain new web pages
+
+54. I use a search tool to filter web search results by specific domains or sites
+
+55. I use double-quotation operators for phrase query searches
+
+56. I use a search tool to filter web pages updated within a specific time frame
+
