@@ -1,4 +1,4 @@
-# Critical Thinking Dispositions
+# Critical Thinking Attitude
 Items with an asterisk are reverse code scale items.
 
 56. I am good at thinking about complicated problems in an organized way
@@ -41,3 +41,6 @@ Items with an asterisk are reverse code scale items.
 * 3: Undecided
 * 2: Disagree
 * 1: Strongly disagree
+
+## Reference
+Takashi Kusumi et. al, Risk Perception and Risk Talk: The Case of the Fukushima Daiichi Nuclear Radiation Risk. Risk Analysis 37, 12 (2017), 2305–2320.
