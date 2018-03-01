@@ -1,3 +1,4 @@
 # Questionnaire Items on Web Access Literacy
 
-* Q19-29: [tolerance for biases in web information credibility judgment](https://github.com/hontolab/web-access-literacy/blob/master/bias-tolerance.md)
+* Q19-29: [Tolerance for biases in web information credibility judgment](https://github.com/hontolab/web-access-literacy/blob/master/bias-tolerance.md)
+* Q30-41: [Browsing strategies to verify web information credibility](https://github.com/hontolab/web-access-literacy/blob/master/browsing-strategy.md)
