@@ -9,11 +9,11 @@
 97. I feel confident in using information from the Internet to make health decisions
 
 ## Possible choices
-5. Strongly agree
-4. Agree
-3. Undecided
-2. Disagree
-1. Strongly disagree
+* 5: Strongly agree
+* 4: Agree
+* 3: Undecided
+* 2: Disagree
+* 1: Strongly disagree
 
 
 ## Reference
