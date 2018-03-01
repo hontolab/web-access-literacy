@@ -1,5 +1,5 @@
-## Tolerance for bias appearing in web information credibility judgment
-※ アスタリスク（*）がついている質問は反転項目。
+# Tolerance for bias appearing in web information credibility judgment
+Items with an asterisk are reverse code scale items.
 
 19. I trust information on well-designed web pages (\*)
 
@@ -23,3 +23,9 @@
 
 29. I trust information on web pages with titles such as "the 20 best XXs" (\*)
 
+## Possible Choices
+* 5: Completely trust
+* 4: Trust
+* 3: Neutral
+* 2: Do not trust
+* 1: Never trust
