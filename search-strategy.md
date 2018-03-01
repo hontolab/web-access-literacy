@@ -16,8 +16,8 @@
 49. I try to spend as much time as possible on web searches
 
 ## Possible choices
-5. Every time
-4. Very often
-3. Sometimes
-2. Rarely
-1. Never
+* 5: Every time
+* 4: Very often
+* 3: Sometimes
+* 2: Rarely
+* 1: Never
