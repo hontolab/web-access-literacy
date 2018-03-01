@@ -1,5 +1,5 @@
 # Questionnaire on Critical Thinking Dispositions
-Items with an asterisk are reverse code scale items。
+Items with an asterisk are reverse code scale items.
 
 57. I am good at thinking about complicated problems in an organized way
 58. I am good at summarizing ideas
@@ -38,6 +38,6 @@ Items with an asterisk are reverse code scale items。
 ## Possible Choices
 * 5: Strongly agree
 * 4: Agree
-* 3: Neutral
+* 3: Undecided
 * 2: Disagree
 * 1: Strongly disagree
