@@ -3,7 +3,7 @@ Items with an asterisk are reverse code scale items.
 
 19. I trust information on well-designed web pages (\*)
 
-20. あなたは、専門的な内容が書かれているウェブページの情報について、どの程度信用できますか？（\*）
+20. I trust information on web pages that look technical or specialized (\*)
 
 21. I trust information on easy-to-understand web pages (\*)
 
