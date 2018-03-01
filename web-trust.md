@@ -37,8 +37,8 @@
 18. How likely are you to trust factoid information on the web?
 
 ## Possible choices
-5. Completely trust
-4. Trust
-3. Neutral
-2. Do not trust
-1. Never trust
+* 5: Completely trust
+* 4: Trust
+* 3: Neutral
+* 2: Do not trust
+* 1: Never trust
