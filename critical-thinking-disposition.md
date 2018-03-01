@@ -1,46 +1,43 @@
-## 質問リスト
-※ アスタリスク（*）がついている質問は反転項目。
+# Questionnaire on Critical Thinking Dispositions
+Items with an asterisk are reverse code scale items。
 
-57. 複雑な問題について順序立てて考えることが得意だ
-58. 考えをまとめることが得意だ
-59. 物事を正確に考えることに自信がある
-60. 誰もが納得できるような説明をすることができる
-61. 何か複雑な問題を考えると、混乱してしまう（*）
-62. 公平な見方をするので、私は仲間から判断を任される
-63. 何かの問題に取り組む時は、しっかりと集中することができる
-64. 一筋縄ではいかないような難しい問題に対しても取り組みつづけることができる
-65. 道筋を立てて物事を考える
-66. 私の欠点は気が散りやすいことだ（*）
+57. I am good at thinking about complicated problems in an organized way
+58. I am good at summarizing ideas
+59. I am confident about my ability to think precisely
+60. I am good at explaining so that anyone can understand me
+61. I get confused whenever thinking about complicated problems (\*)
+62. My colleagues often ask me to make judgments because I am fair
+63. I can maintain concentration while working on a problem
+64. I can continue to challenge tough problems
+65. I set a roadmap when thinking about something
+66. I am easily distracted (\*)
 67. 物事を考えるとき、他の案について考える余裕がない（*）
-68. 注意深く物事を調べることができる
-69. 建設的な提案をすることができる
-70. いろいろな考え方の人と接して多くのことを学びたい
-71. 生涯にわたり新しいことを学びつづけたいと思う
-72. 新しいものにチャレンジするのが好きである
-73. さまざまな文化について学びたいと思う
-74. 外国人がどのように考えるかを勉強することは、意義のあることだと思う
-75. 自分とは違う考え方の人に興味を持つ
-76. どんな話題に対しても、もっと知りたいと思う
-77. 役に立つか分からないことでも、出来る限り多くのことを学びたい
-78. 自分とは異なった考えの人と議論するのは面白い
-79. 分からないことがあると質問したくなる
-80. いつも偏りのない判断をしようとする
-81. 物事を見るときに自分の立場からしか見ない（*）
-82. 物事を決めるときには、客観的な態度を心がける
-83. 一つ二つの立場だけではなく、できるだけ多くの立場から考えようとする
-84. 自分が無意識のうちに偏った見方をしていないか振り返るようにしている
-85. 自分の意見についで話し合うときには、私は中立の立場ではいられない（*）
-86. たとえ意見が合わない人の話にも耳を傾ける
+68. I can look into a problem carefully
+69. I am good at making constructive proposals
+70. I want to learn a lot by communicating with various types of people
+71. I want to continue learning new things over my lifetime
+72. I like to challenge new things
+73. I want to learn various cultures
+74. Learning how foreigners think is useful
+75. I am interested in people with opinions that di er from mine
+76. I want to learn more about any topic
+77. I want to learn as much as possible even if I am unsure if the information will be useful
+78. I like to discuss with those who have opinions that differ from mine
+79. I try to ask about what I do not understand
+80. I try to make fair judgments
+81. I stick to my position when thinking about something (\*)
+82. I try to adopt an objective attitude when deciding something
+83. I try to think from multiple viewpoints
+84. I try to reflect if I have unconscious biased opinions
+85. I have difficulty being neutral when discussing my opinions with others (\*)
+86. I try to listen to those with different opinions
 87. 結論をくだす場合には、確たる証拠の有無にこだわる
 88. 判断をくだす際は、できるだけ多くの事実や証拠を調べる
 89. 何事も、少しでも疑わずに信じ込んだりはしない
 
-## 選択肢
-* 5: 当てはまる
-* 4: やや当てはまる
-* 3: どちらとも言えない
-* 2: あまり当てはまらない
-* 1: 当てはまらない
-
-## 出典
-平山るみ, 楠見孝. 批判的思考態度が結論導出プロセスに及ぼす影響:証拠評価と結論生成課題を用いての検討. 教育心理学研究, Vol. 52, No. 2, pp. 186–198, 2004.
+## Possible Choices
+* 5: Strongly agree
+* 4: Agree
+* 3: Neutral
+* 2: Disagree
+* 1: Strongly disagree
