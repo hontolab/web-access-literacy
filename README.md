@@ -9,3 +9,4 @@
 # Questionnaire on External Relevant Criteria
 
 * Q1-18: [Trust in various web information](https://github.com/hontolab/web-access-literacy/blob/master/web-trust.md)
+* Q90-97: [eHealth literacy](https://github.com/hontolab/web-access-literacy/blob/master/e-health-literacy.md)
