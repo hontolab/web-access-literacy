@@ -51,3 +51,15 @@
 * I try to re ect if I have unconscious biased opinions
 * I stick to my position when thinking about something (\*)
 * I have di culty being neutral when discussing my opinions with others (*) I try to listen to those with di erent opinions
+
+--
+* I use double-quotation operators for phrase query searches
+* I use the NOT operator to exclude web pages containing speci c keywords I use a search tool to  lter web pages updated within a speci c time frame I use a search tool to  lter web search results by speci c domains or sites
+* I check web page domains before clicking web search results
+* I use a publication date  lter to obtain new web pages
+
+--
+* I try to verify the author’s quali cations or credentials on web pages
+* I try to identify the author of the web page
+* I try to look for a stamp of approval or recommendation from third parties on web pages I try to check if contact information is provided for the author
+* I try to consider the author’s goals/objectives in posting information on the web
