@@ -1,17 +1,6 @@
 # Questionnaire on Browsing Strategy
 
-
---
-*  
-
-* 
-* I try to browse web pages in lower- and higher-ranked web search results
-* 
-* 
-
-
-## 質問リスト
-30. ウェブページに記載されている情報が最新か確認する
+30. I try to check if the content on web pages is updated
 
 31. I try evaluating whether views represented on web pages are facts or opinions
 
@@ -25,21 +14,20 @@
 
 36. I try to look for a stamp of approval or recommendation from third parties on web pages I try to check if contact information is provided for the author
 
-37. ウェブページに問い合わせ先情報が記載されているかどうか確認する
+37. I try to check if contact information is provded for the author of the web page
 
 38. I try to verify the author’s qualifications or credentials on web pages
 
 39. I try to check other web pages or information resources to verify content credibility
 
-40. ウェブページに記載された情報の正しさ・正確さを示す裏付け（証拠）情報を探し、確認する
+40. I try to seek evidence information to verify information on web pages
 
 41. そもそも、ウェブで情報を探さず、大学や図書館などに所蔵された書籍や学術雑誌など、専門家によってある程度質が担保されている情報にあたるようにしている
 
---
 
---
-* 
-*   
-* 
-* 
-
+## Possible choices
+5. Every time
+4. Very often
+3. Sometimes
+2. Rarely
+1. Never
