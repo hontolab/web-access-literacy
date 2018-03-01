@@ -5,3 +5,7 @@
 * Q42-49: [Search strategies to verify web information credibility](https://github.com/hontolab/web-access-literacy/blob/master/search-strategy.md)
 * Q50-54: [Web search engine utilization skills](https://github.com/hontolab/web-access-literacy/blob/master/search-engine-skill-level.md)
 * Q56-88: [Critical thinking attitude](https://github.com/hontolab/web-access-literacy/blob/master/critical-thinking-disposition.md)
+
+# Questionnaire on External Relevant Criteria
+
+* Q1-18: [Trust in various web information](https://github.com/hontolab/web-access-literacy/blob/master/web-trust.md)
