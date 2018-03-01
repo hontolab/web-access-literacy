@@ -1,15 +1,31 @@
 ## 質問リスト
-50. あなたは、普段、Google、Yahoo!、Bingといったウェブ検索エンジンをどのくらいの頻度で利用しますか？
-
-51. あなたは、ウェブ検索エンジンの使い方について、詳しい方だと思いますか？
-
-52. I use the NOT operator to exclude web pages containing specific keywords
-
-53. I use a publication date filter to obtain new web pages
-
-54. I use a search tool to filter web search results by specific domains or sites
-
-55. I use double-quotation operators for phrase query searches
-
-56. I use a search tool to filter web pages updated within a specific time frame
-
+50. I think if I am familiar with the use of web search engines?
+    5. Strongly agree
+    4. Agree
+    3. Undecided
+    2. Disagree
+    1. Strongly disagree
+51. I use the NOT operator to exclude web pages containing specific keywords
+    5. Frequently use
+    4. Sometimes use
+    3. Occasionally use 
+    2. Rarely use
+    1. Never use
+52. I use a publication date filter to obtain new web pages
+    5. Frequently use
+    4. Sometimes use
+    3. Occasionally use 
+    2. Rarely use
+    1. Never use
+53. I use a search tool to filter web search results by specific domains or sites
+    5. Frequently use
+    4. Sometimes use
+    3. Occasionally use 
+    2. Rarely use
+    1. Never use
+54. I use double-quotation operators for phrase query searches
+    5. Frequently use
+    4. Sometimes use
+    3. Occasionally use 
+    2. Rarely use
+    1. Never use
