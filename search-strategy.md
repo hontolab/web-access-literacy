@@ -5,7 +5,7 @@
 
 44. 公式ページのように、ウェブページの著者がはっきりしているページを積極的にクリックする
 
-45. ウェブページをクリックする前に、ページのドメイン（.co.jp、.ac.jp、.comなど）をチェックする
+45. I try to check web page domains before clicking web search results
 
 46. I try to modify search queries to examine web page content more intricately
 
