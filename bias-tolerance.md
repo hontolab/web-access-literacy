@@ -1,7 +1,7 @@
-## 質問リスト
+## Tolerance for bias appearing in web information credibility judgment
 ※ アスタリスク（*）がついている質問は反転項目。
 
-19. あなたは、デザインが洗練されたウェブページに書かれている情報について、どの程度信用できますか？（\*）
+19. I trust information on well-designed web pages (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
@@ -13,55 +13,55 @@
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-21. あなたは、分かりやすいウェブページに書かれている情報について、どの程度信用できますか？（\*）
+21. I trust information on easy-to-understand web pages (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-22. あなたは、GoogleやYahooといったウェブ検索エンジンが「上位」にランキングしたウェブページから得られる情報について、どの程度信用できますか？（*）
+22. I trust information on web pages with a high rank on search engines (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-23. あなたは、GoogleやYahooといったウェブ検索エンジンが「下位」にランキングしたウェブページから得られる情報について、どの程度信用できますか？（*）
+23. I trust information on web pages with a low rank on search engines (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-24. あなたは、直接の友人や知人がFacebookやTwitter上で引用・シェアしているウェブページの情報について、どの程度信用できますか？（\*）
+24. I trust information that my friends share on social networking websites (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-25. あなたは、直接の知り合いではないがフォローしているFacebook・TwitterユーザがFacebookやTwitter上で引用・シェアしているウェブページの情報について、どの程度信用できますか？（\*）
+25. I trust information that my followers share on social networking websites (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-26. あなたは、TwitterやFacebookに掲載されたウェブページの中で、いいねの数（like数）やシェアの数、リツイートの数が多いウェブページの情報について、どの程度信用できますか？（\*）
+26. I trust information that is shared by many users or liked on social networking websites (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-27. あなたは、 レビューサイトで口コミ評価の平均値（星の数）が高い商品やサービスの質について、どの程度信用できますか？（\*）
+27. I trust products or services with good reputations, on average, on review sites (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-28. あなたは、 Yahoo!知恵袋や教えてGooのような質問応答サイトでベストアンサーが着いている情報について、どの程度信用できますか？（\*）
+28. I trust posts that someone indicates are the best answers on Q/A sites (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
 	* 2: あまり信用できない
 	* 1: まったく信用できない
-29. あなたは、「人気○○ランキング」「オススメの○○」といったタイトルのウェブページに掲載された情報について、どの程度信用できますか？（\*）
+29. I trust information on web pages with titles such as "the 20 best XXs" (\*)
 	* 5: 信用できる
 	* 4: やや信用できる
 	* 3: どちらとも言えない
