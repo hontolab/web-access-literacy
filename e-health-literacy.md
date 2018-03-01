@@ -1,5 +1,4 @@
 # eHealth literacy
-
 90. I know how to find helpful health resources on the Internet
 91. I know how to use the Internet to answer my health questions
 92. I know what health resources are available on the Internet
