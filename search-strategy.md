@@ -1,11 +1,11 @@
-## 質問リスト
-42. 1つのウェブページだけでなく、複数のウェブページを閲覧する
+## Web search strategies to verify web information credibility
+42. I try to compare multiple web pages
 	* 5: 常にする
 	* 4: 頻繁にする
 	* 3: 時々する
 	* 2: ほとんどしない
 	* 1: したことがない
-43. 検索結果の上位のウェブページだけでなく、下位のウェブページも閲覧する
+43. I try to browse web pages in lower- and higher-ranked web search results
 	* 5: 常にする
 	* 4: 頻繁にする
 	* 3: 時々する
@@ -23,13 +23,13 @@
 	* 3: 時々する
 	* 2: ほとんどしない
 	* 1: したことがない
-46. ウェブページで書かれていた内容についてより詳しく調べるために、検索ワードを追加・修正し再検索を行う
+46. I try to modify search queries to examine web page content more intricately
 	* 5: 常にする
 	* 4: 頻繁にする
 	* 3: 時々する
 	* 2: ほとんどしない
 	* 1: したことがない
-47. 幅広い視点で情報を集めるために、1つだけでなく様々な検索ワードを入力し検索を行う
+47. I try to issue multiple search queries to collect information in a broad perspective
 	* 5: 常にする
 	* 4: 頻繁にする
 	* 3: 時々する
@@ -41,7 +41,7 @@
 	* 3: 時々する
 	* 2: ほとんどしない
 	* 1: したことがない
-49. できる限り時間をかけ、十分に調べたうえで検索を止める
+49. I try to spend as much time as possible on web searches
 	* 5: 常にする
 	* 4: 頻繁にする
 	* 3: 時々する
