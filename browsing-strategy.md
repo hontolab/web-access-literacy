@@ -22,7 +22,7 @@
 
 40. I try to seek evidence information to verify information on web pages
 
-41. そもそも、ウェブで情報を探さず、大学や図書館などに所蔵された書籍や学術雑誌など、専門家によってある程度質が担保されている情報にあたるようにしている
+41. I try to obtain information in books and academic journals in universities or libraries instead of searching for information on the web. It is because information in books and academic journals is guaranteed by experts to a certain extent.
 
 
 ## Possible choices
